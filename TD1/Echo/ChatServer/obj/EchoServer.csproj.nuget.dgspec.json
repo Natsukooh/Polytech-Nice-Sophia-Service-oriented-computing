@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TD1\\Echo\\ChatServer\\EchoServer.csproj": {}
+    "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TDs\\TD1\\Echo\\ChatServer\\EchoServer.csproj": {}
   },
   "projects": {
-    "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TD1\\Echo\\ChatServer\\EchoServer.csproj": {
+    "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TDs\\TD1\\Echo\\ChatServer\\EchoServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TD1\\Echo\\ChatServer\\EchoServer.csproj",
+        "projectUniqueName": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TDs\\TD1\\Echo\\ChatServer\\EchoServer.csproj",
         "projectName": "EchoServer",
-        "projectPath": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TD1\\Echo\\ChatServer\\EchoServer.csproj",
+        "projectPath": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TDs\\TD1\\Echo\\ChatServer\\EchoServer.csproj",
         "packagesPath": "C:\\Users\\romai\\.nuget\\packages\\",
-        "outputPath": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TD1\\Echo\\ChatServer\\obj\\",
+        "outputPath": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TDs\\TD1\\Echo\\ChatServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\romai\\AppData\\Roaming\\NuGet\\NuGet.Config",

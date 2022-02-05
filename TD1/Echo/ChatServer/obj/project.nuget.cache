@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ufVlDMcvyA5svAfIojhP8uDpY1lyiJY0EbU7pN6Qk3h98QmMGRkYgaUi2kFJ/kp/f7oHohXani5IBnxnngynxw==",
+  "dgSpecHash": "HxSvibq5C857MqRZNkaNqOT3Nul4nTxkxQ9eYZG1J3Be8nkmdsNPQOWgvFh59JRGFFOxYxvckmaZUuUcwJJdNw==",
   "success": true,
-  "projectFilePath": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TD1\\Echo\\ChatServer\\EchoServer.csproj",
+  "projectFilePath": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TDs\\TD1\\Echo\\ChatServer\\EchoServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OACOG4AXqO8MCo0PwzrE3/uDkTK0g5czaR3AGqf8hIsJdGfqwspjZP55BTOHCriqzrmsAX1O/BeHAQ89uolr/A==",
+  "dgSpecHash": "VM2IBpvlQGkXVZ1UkJsBQmc4tvf89/Lkm/UR2uzZuktfQVqVt7dExEldUd4zNUSy5vUrfG2XCZW13Z80uVbHAQ==",
   "success": true,
-  "projectFilePath": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TD1\\Echo\\ChatClient\\EchoClient.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\romai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\romai\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TDs\\TD1\\Echo\\ChatClient\\EchoClient.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

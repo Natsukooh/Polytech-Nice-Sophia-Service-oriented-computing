@@ -55,18 +55,59 @@ namespace Echo
             while (true)
             {
 
-                string str = reader.ReadString();
-                Console.WriteLine(str);
+                char char_read = ' ';
+                char[] last_chars_buffer = new char[4];
+                char[] request_end = { (char)0x0A, (char)0x0D, (char)0x0A, (char)0x0D };
+                string request = "";
+                bool must_continue = false;
+
+                do
+                {
+                    try
+                    {
+                        char_read = reader.ReadChar();
+                        request += char_read;
+                    }
+                    catch (EndOfStreamException e)
+                    {
+                        must_continue = true;
+                        break;
+                    }
+
+                    for (int i = 3; i > 0; i--)
+                    {
+                        last_chars_buffer[i] = last_chars_buffer[i - 1];
+                    }
+                    last_chars_buffer[0] = char_read;
+                }
+                while (!last_chars_buffer.SequenceEqual(request_end));
+
+                if (must_continue)
+                {
+                    continue;
+                }
+
+                Console.WriteLine(request);
 
                 String response = "";
-                String[] splitted = str.Split(" ");
+                String[] splitted = request.Split(" ");
 
                 if (splitted[0] == "GET")
                 {
                     if (splitted.Length > 1)
                     {
-                        string[] html = System.IO.File.ReadAllLines("../../../www/pub" + splitted[1]);
-                        response += "http/1.0 200 OK\n\n";
+                        string[] html = { };
+
+                        try
+                        {
+                            html = System.IO.File.ReadAllLines("../../../www/pub" + splitted[1]);
+                        }
+                        catch (FileNotFoundException e)
+                        {
+                            
+                        }
+                        response += "http/1.0 200 OK\n";
+                        response += "Content-Type: text/html\n\n";
 
                         foreach (string line in html)
                         {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TD1\\Echo\\ChatClient\\EchoClient.csproj",
+      "projectUniqueName": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TDs\\TD1\\Echo\\ChatClient\\EchoClient.csproj",
       "projectName": "EchoClient",
-      "projectPath": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TD1\\Echo\\ChatClient\\EchoClient.csproj",
+      "projectPath": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TDs\\TD1\\Echo\\ChatClient\\EchoClient.csproj",
       "packagesPath": "C:\\Users\\romai\\.nuget\\packages\\",
-      "outputPath": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TD1\\Echo\\ChatClient\\obj\\",
+      "outputPath": "D:\\windows\\Users\\romai\\Documents\\SI4\\S8\\SOC\\TDs\\TD1\\Echo\\ChatClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\romai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,24 +55,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.22, 3.1.22]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

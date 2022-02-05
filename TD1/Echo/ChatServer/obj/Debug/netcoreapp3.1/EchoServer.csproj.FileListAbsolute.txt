@@ -11,3 +11,16 @@ D:\windows\Users\romai\Documents\SI4\S8\SOC\TD1\Echo\ChatServer\obj\Debug\netcor
 D:\windows\Users\romai\Documents\SI4\S8\SOC\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.dll
 D:\windows\Users\romai\Documents\SI4\S8\SOC\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
 D:\windows\Users\romai\Documents\SI4\S8\SOC\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\bin\Debug\netcoreapp3.1\EchoServer.exe
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\bin\Debug\netcoreapp3.1\EchoServer.deps.json
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.json
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.dev.json
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\bin\Debug\netcoreapp3.1\EchoServer.dll
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\bin\Debug\netcoreapp3.1\EchoServer.pdb
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfoInputs.cache
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfo.cs
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.CoreCompileInputs.cache
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.dll
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
+D:\windows\Users\romai\Documents\SI4\S8\SOC\TDs\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache
