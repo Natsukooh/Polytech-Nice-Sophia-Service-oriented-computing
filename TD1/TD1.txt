@@ -1,0 +1,35 @@
+Question 1
+
+Seul l'utilisateur Root a le droit d'écouter sur le port 80. Pour les tests, on utilise donc souvent le port 8080, qui n'est pas difficile à retenir si on sait que 80 est le port standard pour HTTP.
+
+
+Question 2
+
+Résultat obtenu :
+
+GET /                                                                                                                   Trying 134.59.134.215...                                                                                                Connected to www.tigli.fr.                                                                                              Escape character is '^]'.                                                                                               <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">                                                                      <html><head>                                                                                                            <title>302 Found</title>                                                                                                </head><body>                                                                                                           <h1>Found</h1>                                                                                                          <p>The document has moved <a href="http://sparks.i3s.unice.fr/">here</a>.</p>                                           <hr>                                                                                                                    <address>Apache/2.4.41 (Ubuntu) Server at erebe-vm5.i3s.unice.fr Port 80</address>                                      </body></html>                                                                                                          Connection closed by foreign host.
+
+Il s'agit (probablement) de l'HTML de la page d'accueil de ce site.
+
+
+Question 3
+
+Avec cache : 
+35 requêtes
+2,28 Mo / 134,40 Ko transférés
+Terminé en : 6,22 s
+DOMContentLoaded: 684 ms
+load: 1,50 s
+
+load: 2,17 s
+Sans cache :
+37 requêtes
+2,31 Mo / 1,03 Mo transférés
+Terminé en : 6,92 s
+DOMContentLoaded: 608 ms
+load: 3,08 s
+
+
+Question 4 :
+
+Le chargement de la page est environ deux fois plus rapide avec cache. Environ 7 fois moins de données ont été téléchargées sans cache.
